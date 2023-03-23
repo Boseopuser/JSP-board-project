@@ -36,7 +36,6 @@ https://user-images.githubusercontent.com/128597230/227125182-1269d9eb-c4d4-4164
 
 3-2 1:1 상담문의 채팅 API 연동 기능 구현 
 ![bandicam 202![bandicam 2023-03-23 15-49-59-401](https://user-images.githubusercontent.com/128597230/227126258-966b6272-7e67-4bfe-b230-0bbbcf842331.jpg)
-
 3-03-23 15-49-55-134](https://user-images.githubusercontent.com/128597230/227126236-fb278948-0255-4be6-bb9e-885d434ccf08.jpg)
 
 
@@ -74,16 +73,13 @@ https://user-images.githubusercontent.com/128597230/227125182-1269d9eb-c4d4-4164
 
 4-1 게시판 게시글 작성
 ![bandicam 2023-03-23 15-50-41-391](https://user-images.githubusercontent.com/128597230/227126923-ccee069e-9a6d-4057-97b9-8b9e19aae0c2.jpg)
-
 ![bandicam 2023-03-23 15-50-49-896](https://user-images.githubusercontent.com/128597230/227126987-f11db869-43ae-492f-bda8-fec12696a181.jpg)
-
 ![bandicam 2023-03-23 15-50-54-676](https://user-images.githubusercontent.com/128597230/227127041-812501be-f46c-40e6-9b75-174725ece5c0.jpg)
 
 
 
 4-2 게시판 검색 기능구현
 ![bandicam 2023-03-23 15-51-13-288](https://user-images.githubusercontent.com/128597230/227127124-816892a4-e404-4763-bc5f-01da3ad6bf40.jpg)
-
 ![bandicam 2023-03-23 15-51-38-221](https://user-images.githubusercontent.com/128597230/227127137-dc14fe39-70b8-4e83-9795-4b3f56220d6e.jpg)
 
 
@@ -110,7 +106,6 @@ https://user-images.githubusercontent.com/128597230/227125182-1269d9eb-c4d4-4164
 
 4-7 게시판 게시글&댓글 삭제 기능 구현
 ![bandicam 2023-03-23 15-52-26-549](https://user-images.githubusercontent.com/128597230/227127652-5c0bdbc5-0c3a-427a-9bb0-33cefeadef0c.jpg)
-
 ![bandicam 2023-03-23 15-52-28-958](https://user-images.githubusercontent.com/128597230/227127655-364622e9-8ef9-46be-91a9-fecfd4ebda49.jpg)
 
 
@@ -123,5 +118,4 @@ ttps://user-images.githubusercontent.com/128597230/227127737-0dffe660-c3be-4885-
 
 6. 채팅 API 연동 기능 구현 
 ![bandicam 2023-03-23 15-52-![bandicam 2023-03-23 15-53-00-817](https://user-images.githubusercontent.com/128597230/227127842-afc46114-af36-4ae6-adb3-93f833a4b752.jpg)
-
 56-233](https://user-images.githubusercontent.com/128597230/227127837-9cabc235-b6e7-4fcb-b733-d77b8cbb0f02.jpg)
