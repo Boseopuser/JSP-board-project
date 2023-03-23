@@ -21,3 +21,7 @@ JSP기반의 게시판 웹 프로젝트
 - 채팅 API 연동 자바스크립 기능구현 
 
 
+
+
+https://user-images.githubusercontent.com/128597230/227125182-1269d9eb-c4d4-4164-9882-0049883d5ce1.mp4
+
