@@ -1,5 +1,5 @@
-# JSP-board-project
-JSP기반의 게시판 웹 프로젝트 
+# JSP-board-project 개인프로젝트 
+JSP기반의 게시판 CRUD 기능구현 개인 프로젝트 
 
 1. **기술스택 / 개발환경**
 - **Java 버전 1.7**
