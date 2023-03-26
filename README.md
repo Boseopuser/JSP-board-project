@@ -2,12 +2,14 @@
 JSP기반의 게시판 CRUD 기능구현 개인 프로젝트 
 
 1. **기술스택 / 개발환경**
-- **Java 버전 1.7**
-- **Maven**
-- **MySQL 버전 8.0.32**
+- Microsoft Windows 10 v22H2
+- **Java version 1.7**
+- Eclipse Java v2021-12 / 2022-03 / 2023-03
+- **Apache Maven v3.9.1
+- **MySQL version 8.0.32**
 - **Javascript**
-- **Bootstrap 버전 3.3.7**
-- **jQuery 버전 3.1.1**
+- **Bootstrap version 3.3.7**
+- **jQuery version 3.1.1**
 - **Dynamic Application Project**
 
 2. 기능구현
