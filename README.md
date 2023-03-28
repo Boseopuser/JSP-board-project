@@ -14,10 +14,10 @@
 # JSP-board-project 개인프로젝트 
 JSP기반의 게시판 CRUD 기능구현 개인 프로젝트 
 
-1. **기술스택 / 개발환경**
-- Microsoft Windows 10 v22H2
+#1. **기술스택 / 개발환경**
+- **Microsoft Windows 10 v22H2
 - **Java version 1.7**
-- Eclipse Java v2021-12 / 2022-03 / 2023-03
+- **Eclipse Java v2021-12 / 2022-03 / 2023-03
 - **Apache Maven v3.9.1
 - **MySQL version 8.0.32**
 - **Javascript**
@@ -25,7 +25,7 @@ JSP기반의 게시판 CRUD 기능구현 개인 프로젝트
 - **jQuery version 3.1.1**
 - **Dynamic Application Project**
 
-2. 기능구현
+#2. 기능구현
 - 로그인,로그아웃,회원가입 기능구현 
 - 네이버,카카오 소셜 로그인 API 연동 기능구현 
 - 게시판CRUD 기능구현
