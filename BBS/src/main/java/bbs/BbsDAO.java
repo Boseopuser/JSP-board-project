@@ -17,8 +17,8 @@ public class BbsDAO {
 			try {
 				//Web hosting 시에 호스팅서비스 해주는 회사에게 받은 url및 id pw,  
 				String dbURL =  "jdbc:mysql://localhost:3306/BBS?serverTimezone=UTC";
-				String dbID = "root";
-				String dbPassword = "root";
+				String dbID = "id";
+				String dbPassword = "password";
 				Class.forName("com.mysql.cj.jdbc.Driver");
 				conn = DriverManager.getConnection(dbURL, dbID, dbPassword);
 			} catch (Exception e) {
