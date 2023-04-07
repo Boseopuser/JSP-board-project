@@ -16,7 +16,7 @@ public class BbsDAO {
 			// 생성자를 만들어준다.
 			try {
 				//Web hosting 시에 호스팅서비스 해주는 회사에게 받은 url및 id pw,  
-				String dbURL =  "jdbc:mysql://localhost:3306/?serverTimezone=UTC";
+				String dbURL =  "jdbc:mysql://localhost:3306/project?serverTimezone=UTC";
 				String dbID = "id";
 				String dbPassword = "password";
 				Class.forName("com.mysql.cj.jdbc.Driver");
