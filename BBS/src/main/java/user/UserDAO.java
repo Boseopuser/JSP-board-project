@@ -19,12 +19,11 @@ public class UserDAO {
 		//예외 처리를 하기 위해서 try&catch 문을 쓴다.
 		try {
 			//dbURL안에 localhost라는 것은 본인 컴퓨터에 접속을 의미하고 3306포트에 연결된 BBSdb에 접속할 수 있게 해준다.
-			//강의랑 디비 버전을 다르게해서 뒤에 뭘더붙임 ㅇㅇ;
-			String dbURL =  "jdbc:mysql://localhost:3306/BBS?serverTimezone=UTC";
+			String dbURL =  "jdbc:mysql://localhost:3306/프로젝트?serverTimezone=UTC";
 			//db에 접속하는 ID를 담는 부분
-			String dbID = "root";
+			String dbID = "ID";
 			//db에 접속하는 PW를 담는 부분
-			String dbPassword = "root";
+			String dbPassword = "Password";
 			//mysql에 접속할 수 있는 driver를 찾을수 있게 해주는 코드 driver라는건 mysql에 접속할 수 있도록 매개체 역할을 해주는 라이브러리이다.
 			//강의버전보다 한참 높은 버전의 디비를 써서 드라이버 주소가 좀다름
 			Class.forName("com.mysql.cj.jdbc.Driver");
