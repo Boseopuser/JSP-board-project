@@ -97,7 +97,7 @@
 					<script src="https://t1.kakaocdn.net/kakao_js_sdk/2.1.0/kakao.min.js"
   							integrity="sha384-dpu02ieKC6NUeKFoGMOKz6102CLEWi9+5RQjWSV0ikYSFFd8M3Wp2reIcquJOemx" crossorigin="anonymous"></script>
 					<script>
-  							Kakao.init('c089c8172def97eb00c07217cae17495'); // 사용하려는 앱의 JavaScript 키 입력
+  							Kakao.init('JavaScript key'); // 사용하려는 앱의 JavaScript 키 입력
 					</script>
 							<a id="custom-login-btn" href="javascript:loginWithKakao()"><img src="//k.kakaocdn.net/14/dn/btqCn0WEmI3/nijroPfbpCa4at5EIsjyf0/o.jpg" width="222"/>
 							<p id="token-result"></p>
@@ -167,7 +167,7 @@
 					
 					<div class="form-group">
   <%
-    String clientId = "c5HsBoIWhdEga1935di1";//애플리케이션 클라이언트 아이디값";
+    String clientId = "클라이언트 ";//애플리케이션 클라이언트 아이디값";
     String redirectURI = URLEncoder.encode("http://localhost:8080/naver.Login", "UTF-8");
     SecureRandom random = new SecureRandom();
     String state = new BigInteger(130, random).toString();
@@ -183,7 +183,6 @@
 				</form>	
 			</div>	
 		</div>
-		<!-- 왜 넣어줄까 2 -->
 		<div class="col-lg-4"></div>
 	</div>
 	<!--이 파일의 애니메이션을 담당할 자바스크립트 참조선언 jquery를 특정 홈페이지에서 호출 -->
